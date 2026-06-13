@@ -1,0 +1,18 @@
+{
+  "status": 200,
+  "body": {
+    "success": true,
+    "message": "User retrieved successfully",
+    "data": {
+      "_id": "6a2d7322cb2a74ce35b92251",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice.1781363489364@example.com",
+      "age": 30,
+      "role": "user",
+      "createdAt": "2026-06-13T15:11:30.055Z",
+      "updatedAt": "2026-06-13T15:11:30.055Z",
+      "__v": 0
+    }
+  }
+}

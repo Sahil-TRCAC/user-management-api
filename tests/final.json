@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "body": {
+    "success": true,
+    "message": "Users retrieved successfully",
+    "results": 0,
+    "total": 0,
+    "page": 1,
+    "limit": 10,
+    "data": []
+  }
+}

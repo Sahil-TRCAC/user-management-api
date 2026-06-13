@@ -1,0 +1,18 @@
+{
+  "status": 200,
+  "body": {
+    "success": true,
+    "message": "User updated successfully",
+    "data": {
+      "_id": "6a2d7322cb2a74ce35b92251",
+      "firstName": "Alicia",
+      "lastName": "Smith",
+      "email": "alice.1781363489364@example.com",
+      "age": 31,
+      "role": "admin",
+      "createdAt": "2026-06-13T15:11:30.055Z",
+      "updatedAt": "2026-06-13T15:11:30.273Z",
+      "__v": 0
+    }
+  }
+}
